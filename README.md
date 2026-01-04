@@ -72,4 +72,4 @@ I value clean code, consistency, and real-world problem solving, and I continuou
 ## 📫 Contact
 
 - Email: **khalimovdev66@gmail.com**
-- GitHub: https://github.com/khalimov_dev1
+- GitHub: https://github.com/khalimovdev1
